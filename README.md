@@ -1,0 +1,1 @@
+It is a program that separates a person's full name from frist name and last name and informs each other. Using 'greet', this function outputs greetings with the forwarded name. It receives the user's name as a reference using parameters, calls it, and outputs the name.
